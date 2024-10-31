@@ -49,9 +49,6 @@ The primary goal of this analysis is to examine whether tariffs have had a stati
 
 This project is currently in the research proposal stage. Contributions in the form of feedback, additional analysis suggestions, or code optimization are welcome.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
