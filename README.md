@@ -60,4 +60,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 For questions, feedback, or collaboration inquiries, feel free to reach out to:
 
 - **Mariano De Martino**
-- Email: mariano.demartino@studbocconi.iy
+- Email: mariano.demartino@studbocconi.it
