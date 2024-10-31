@@ -34,4 +34,4 @@ The trade tensions between the U.S. and China mark a historic shift in global ec
 
 3. **Proposed Model**:
    ```markdown
-   I_j = α + Dβ_1 + Xβ_2 + ε_t
+   Ij = α + Dβ1 + Xβ2 + εt
