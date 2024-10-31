@@ -35,3 +35,29 @@ The trade tensions between the U.S. and China mark a historic shift in global ec
 3. **Proposed Model**:
    ```markdown
    Ij = α + Dβ1 + Xβ2 + εt
+## Future Work
+1. **Statistical Analysis**: Testing and refining the regression model to ensure robustness.
+2. **Writing and Publication**: Documenting findings and implications for submission to an academic journal.
+
+## Goal
+
+The primary goal of this analysis is to examine whether tariffs have had a statistically significant impact on stock returns within these key sectors. This will be indicated by evaluating if:
+
+- **β1 ≠ 0**, showing that the introduction of tariffs had a positive or negative effect on stock returns.
+
+## Contributing
+
+This project is currently in the research proposal stage. Contributions in the form of feedback, additional analysis suggestions, or code optimization are welcome.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+### Contact Information
+
+For questions, feedback, or collaboration inquiries, feel free to reach out to:
+
+- **Mariano De Martino**
+- Email: mariano.demartino@studbocconi.iy
